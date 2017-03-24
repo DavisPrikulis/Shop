@@ -1,0 +1,11 @@
+* uzreiz atveras  produtu saraxts (routes)
+* pievieno jaunu  fieldu - kategorija (string)
+	 - rails add field migration
+	 - rake db:migrate
+	 - viewos jaapieliek
+	 - ProductsController -> product_params
+
+
+* reste uz klavas straaadaa
+* lai menu nelien prieksaa kontentam (scss)
+* stilot formu
